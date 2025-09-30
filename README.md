@@ -12,7 +12,7 @@ Node - `brew install node`
 
 ### Running the app
 
-Run these commands XX XX :
+Run these commands XX XX XX:
 
 `yarn install`
 
